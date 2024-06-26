@@ -55,8 +55,21 @@ Also accepting connections via e-mail: [idigitallegacy@yandex.ru](mailto://idigi
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ## Best projects
-(not filled yet)
+### Backend
+| Languages    |                 Brief description             |             Link           |
+|     :---:    |                  :---                         |                    :---    |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | A CSV parser, that has a simple MS Excel maths functionality. First row and col in csv are cell names. See readme for full description. | [View](https://github.com/idigitallegacy/YADROTestTask) |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | Labs for C++ programming courcse. My favourite is lab4, which has the Rubik's cube (with GUI) | [View](https://github.com/idigitallegacy/programming_cpp) |
+| <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | A simple auto-updater for Linux, written as systemd service. | [View](https://github.com/idigitallegacy/updatem-226) |
+| <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> | A "Personal blog" website. This project is a part of my course work on "Web programming" course. There is a temporary db connected, so this project is not filled with content nowadays. Guaranteed, that it works on `localhost:80` (via concurrently), but generally, it's just a code sample. | [View](https://github.com/idigitallegacy/web-programming) / [Functional requirements](https://github.com/is-web-y25/labs) |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | A Dota 2 stats app (server side). This server is only a storage to accept POST requests from Dota GSI Server and store them as a convenient (not optimal) JSON. | [View](https://github.com/idigitallegacy/prog-tech-server) |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | A frequency generator. | [View](https://github.com/idigitallegacy/TestTask/tree/master/Task_2.6) |
+### Frontend
+| Languages    |                 Brief description             |             Link           |
+|     :---:    |                  :---                         |                    :---    |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" /> | A Dota 2 stats app (client side). Asks server to get data and displays some graphs telling stats for a specific player and game. | [View](https://github.com/idigitallegacy/prog-tech-client) |
+| <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> | A "Personal blog" website. This project is a part of my course work on "Web programming" course. There is a temporary db connected, so this project is not filled with content nowadays. Guaranteed, that it works on `localhost:80` (via concurrently), but generally, it's just a code sample. | [View](https://github.com/idigitallegacy/web-programming) / [Functional requirements](https://github.com/is-web-y25/labs) |
