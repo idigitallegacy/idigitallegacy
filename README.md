@@ -14,6 +14,8 @@ Also accepting connections via e-mail: [idigitallegacy@yandex.ru](mailto://idigi
 - There is nothing impossible. Not implemented yet only.
 - Trying to be the best in every action I do.
 - Owning and maintaining a car by myself.
+- Programming level (estimated) at high-level languages: junior+.
+- C1 english level
 
 ## Stack
 ### Known technologies
