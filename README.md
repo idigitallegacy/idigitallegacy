@@ -21,7 +21,7 @@ Also accepting connections via e-mail: [idigitallegacy@yandex.ru](mailto://idigi
 ### Preferred stack
 ```json
   {
-    "backend": ["nodejs", "nestjs", "kotlin", "c++"],
+    "backend": ["golang", "nodejs", "nestjs", "kotlin", "c++"],
     "frontend": ["nodejs", "react"]
   }
 ```
