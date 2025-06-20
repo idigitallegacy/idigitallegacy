@@ -70,7 +70,7 @@ Also accepting connections via e-mail: [idigitallegacy@yandex.ru](mailto://idigi
 ### Backend
 | Languages    |                 Brief description             |             Link           |
 |     :---:    |                  :---                         |                    :---    |
-| <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> | An ITMO highload course | [View](https://github.com/idigitallegacy/YADROTestTask) |
+| <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> | An ITMO highload course | [View](https://github.com/idigitallegacy/high-load-course) |
 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | A CSV parser, that has a simple MS Excel maths functionality. First row and col in csv are cell names. See readme for full description. | [View](https://github.com/idigitallegacy/YADROTestTask) |
 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | Labs for C++ programming courcse. My favourite is lab4, which has the Rubik's cube (with GUI) | [View](https://github.com/idigitallegacy/programming_cpp) |
 | <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | A simple auto-updater for Linux, written as systemd service. | [View](https://github.com/idigitallegacy/updatem-226) |
