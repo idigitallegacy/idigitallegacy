@@ -1,5 +1,5 @@
 # Michael Makarov
-A fullstack programmer studying at 4th course of ITMO, St. Petersburg, Russia.
+A backend/fullstack programmer having bachelor degree of Information Systems and Technologies, ITMO, St. Petersburg, Russia.
 
 Feel free to write me on TG: [@digitallegacy](https://t.me/digitallegacy)
 
